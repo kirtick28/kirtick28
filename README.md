@@ -27,7 +27,7 @@
 
 ## 🌟 About Me
 
-Hey there! I'm Kirtick, a second-year Computer Science student with a deep fascination for the world of web development and algorithmic challenges. My journey in tech is driven by a desire to create impactful digital experiences and solve complex problems efficiently.
+Hey there! I'm Kirtick, a third-year Computer Science student with a deep fascination for the world of web development and algorithmic challenges. My journey in tech is driven by a desire to create impactful digital experiences and solve complex problems efficiently.
 
 - 🛠️ **Currently Crafting**: A full-featured MERN-based **Inventory ERP System** for cracker sales businesses (SparkStock Pro).
 - 🌱 **Eagerly Learning**: Diving deeper into **Advanced React concepts**, exploring **System Design principles**, and consistently sharpening my **Competitive Programming** acumen.
