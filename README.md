@@ -7,7 +7,7 @@
     <tr>
       <td align="left" style="text-align: left; border: none; padding: 0;">
         🚀 Aspiring MERN Stack Developer & Competitive Programming Enthusiast <br/>
-        🎓 Pursuing B.Tech in Computer Science (2nd Year) at Sri Eshwar College of Engineering <br/>
+        🎓 Pursuing B.Tech in Computer Science (3rd Year) at Sri Eshwar College of Engineering <br/>
         💻 Passionate about building scalable web applications and elegant backend solutions. <br/>
         🧩 Actively honing problem-solving skills on LeetCode, Codeforces, and CodeChef.
       </td>
